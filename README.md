@@ -42,32 +42,31 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 
-### 📊 Github Stats
-<a href='https://github.com/rapholivera/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rapholivera/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rapholivera/github-stats-transparent/output/generated/languages.svg)
+### Projects and Dev Stuffs:
 
-</a>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
-<br>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=rapholivera&show_icons=true&theme=tokyonight"/>
+</details>
+ 
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Ubuntu 20.04</li>
+	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
+  	    <li><b>Browser: </b> Firefox Web Browser</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <br />
+	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+	</ul>	
+</details>
 
-<br>
-
-
-### 📊 Github Stats
-| Github Stats | Top Languages |
-| --- | --- |
-| ![Raphael's github stats](https://github-readme-stats.vercel.app/api?username=rapholivera&show_icons=true&theme=tokyonight) |![Raphael's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rapholivera&theme=tokyonight&count_private=true&layout=compact) |
-
-### 📊 Github Stats
-<a href='https://github.com/rapholivera/github-stats-transparent' align='center'>
-
-  ![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rapholivera&show_icons=true&theme=tokyonight)
-  
-  ![ayu-mirage_repo](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight)
-  
-</a>
+#
 
 <br>
 
