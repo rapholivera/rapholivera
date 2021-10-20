@@ -74,7 +74,12 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 # Blog posts
 <!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+[![EASTER EGG na página do evento da Apple #shorts](https://freshidea.com/jonah/app/youtube-card/?id=X5qM7F0iPMQ)](https://www.youtube.com/watch?v=X5qM7F0iPMQ "EASTER EGG na página do evento da Apple #shorts")
+[![Quero Programar! Preciso de inglês fluente? #shorts](https://freshidea.com/jonah/app/youtube-card/?id=b-M5__e6DLM)](https://www.youtube.com/watch?v=b-M5__e6DLM "Quero Programar! Preciso de inglês fluente? #shorts")
+[![Como Pegar Foto Da Galeria De Imagens no iOS (Swift 5 XCode 12)](https://freshidea.com/jonah/app/youtube-card/?id=PkuvprZubGo)](https://www.youtube.com/watch?v=PkuvprZubGo "Como Pegar Foto Da Galeria De Imagens no iOS (Swift 5 XCode 12)")
+[![Conteúdos gratuitos sobre desenvolvimento iOS #shorts](https://freshidea.com/jonah/app/youtube-card/?id=YL22nzFRxmE)](https://www.youtube.com/watch?v=YL22nzFRxmE "Conteúdos gratuitos sobre desenvolvimento iOS #shorts")
+[![Posso Estudar 2 Linguagens De Programação Ao Mesmo Tempo?](https://freshidea.com/jonah/app/youtube-card/?id=hQuhvfEQtmQ)](https://www.youtube.com/watch?v=hQuhvfEQtmQ "Posso Estudar 2 Linguagens De Programação Ao Mesmo Tempo?")
+[![UitableView Header e Footer (Swift 5 Xcode 12)](https://freshidea.com/jonah/app/youtube-card/?id=iXqyw54hhTM)](https://www.youtube.com/watch?v=iXqyw54hhTM "UitableView Header e Footer (Swift 5 Xcode 12)")<!-- YOUTUBE:END -->
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
