@@ -72,16 +72,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12167963754&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-## 📺 Latest YouTube videos
-<!-- YOUTUBE:START -->
-[![EASTER EGG na página do evento da Apple #shorts](https://img.youtube.com/vi/X5qM7F0iPMQ/0.jpg)](https://www.youtube.com/watch?v=X5qM7F0iPMQ "EASTER EGG na página do evento da Apple #shorts")
-[![Quero Programar! Preciso de inglês fluente? #shorts](https://img.youtube.com/vi/b-M5__e6DLM/0.jpg)](https://www.youtube.com/watch?v=b-M5__e6DLM "Quero Programar! Preciso de inglês fluente? #shorts")
-[![Como Pegar Foto Da Galeria De Imagens no iOS (Swift 5 XCode 12)](https://img.youtube.com/vi/PkuvprZubGo/0.jpg)](https://www.youtube.com/watch?v=PkuvprZubGo "Como Pegar Foto Da Galeria De Imagens no iOS (Swift 5 XCode 12)")
-[![Conteúdos gratuitos sobre desenvolvimento iOS #shorts](https://img.youtube.com/vi/YL22nzFRxmE/0.jpg)](https://www.youtube.com/watch?v=YL22nzFRxmE "Conteúdos gratuitos sobre desenvolvimento iOS #shorts")
-[![Posso Estudar 2 Linguagens De Programação Ao Mesmo Tempo?](https://img.youtube.com/vi/hQuhvfEQtmQ/0.jpg)](https://www.youtube.com/watch?v=hQuhvfEQtmQ "Posso Estudar 2 Linguagens De Programação Ao Mesmo Tempo?")
-[![UitableView Header e Footer (Swift 5 Xcode 12)](https://img.youtube.com/vi/iXqyw54hhTM/0.jpg)](https://www.youtube.com/watch?v=iXqyw54hhTM "UitableView Header e Footer (Swift 5 Xcode 12)")<!-- YOUTUBE:END -->
-
-<!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
 ```text
