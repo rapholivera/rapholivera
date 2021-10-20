@@ -1,17 +1,17 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px">
 
-I am _Raphael Oliveira_. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from _National Institute of Technology, Patna_. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
+I'm _Raphael Oliveira_. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from _National Institute of Technology, Patna_. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
 <img align="right" alt="GIF" src="https://spotify-github-profile.vercel.app/api/view?uid=12167963754&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true"/>
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a _Mobile Developer Coordinator_ at [Valemobi](https://www.valemobi.com.br)\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;ARKit, Swift, SwiftUI, Combine, Apple’s HIG, Git, Git flow, RxSwift.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 20011 with 10+ years of experience in iOS development.\
+&nbsp;&nbsp;&nbsp;:earth_americas: &nbsp;Currently working as a _Mobile Developer Coordinator_ at [Valemobi](https://www.valemobi.com.br)\
+&nbsp;&nbsp;&nbsp;:heart: &nbsp;Passionate with problem solving and daily routines automation.\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;ARKit, Swift, SwiftUI, Combine, Apple’s HIG, Git, Git flow, RxSwift.\
+&nbsp;&nbsp;&nbsp;:hourglass_flowing_sand: &nbsp;Coding since 2011 with 10+ years of experience in iOS development.\
 &nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil with my lovely wife :two_hearts:\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Pokémon trainer.
+&nbsp;&nbsp;&nbsp;:video_game: &nbsp;Pokémon trainer and Nintendo games fan.
 
 ### 🔨 Languages and Tools:
 <a href="https://developer.apple.com/swift/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/swift/swift.svg" alt="swift" height="42px"/> </a> 
