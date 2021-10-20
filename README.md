@@ -73,8 +73,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12167963754&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
