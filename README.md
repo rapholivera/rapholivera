@@ -115,6 +115,17 @@ No Activity Tracked This Week
 
 ```
 
+**I Mostly Code in Swift** 
+
+```text
+Swift                    8 repos             ███████████████░░░░░░░░░░   61.54% 
+HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Dart                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+
+```
+
+
 
  Last Updated on 20/10/2021
 <!--END_SECTION:waka-->
