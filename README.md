@@ -72,7 +72,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12167963754&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-# Blog posts
+## 📺 Latest YouTube videos
 <!-- YOUTUBE:START -->
 [![EASTER EGG na página do evento da Apple #shorts](https://freshidea.com/jonah/app/youtube-card/?id=X5qM7F0iPMQ)](https://www.youtube.com/watch?v=X5qM7F0iPMQ "EASTER EGG na página do evento da Apple #shorts")
 [![Quero Programar! Preciso de inglês fluente? #shorts](https://freshidea.com/jonah/app/youtube-card/?id=b-M5__e6DLM)](https://www.youtube.com/watch?v=b-M5__e6DLM "Quero Programar! Preciso de inglês fluente? #shorts")
