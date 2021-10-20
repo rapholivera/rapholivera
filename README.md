@@ -2,7 +2,7 @@
 
 I'm _Raphael Oliveira_ and a content creator and iOS Software Engineer, I talk about things I am familiar with, things that trip up folks that I mentor, and things that I am learning. My work as content creator aims to help people find their way through the tech industry by sharing my own experiences navigating this world through technology, career advice, and lifestyle videos.
 
-You can find out more on my [youtube channel](https://www.youtube.com/channel/UClK-o4olF-Y0k5zBHjezTAA) and my [Instagram](https://instagram.com/rapholivera) (all in portuguese :brazil:)
+You can find out more on my [youtube channel](https://www.youtube.com/channel/UClK-o4olF-Y0k5zBHjezTAA) and my [Instagram](https://instagram.com/rapholivera) (all in Portuguese :brazil:)
 
 <img align="right" alt="GIF" src="https://spotify-github-profile.vercel.app/api/view?uid=12167963754&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true"/>
 
