@@ -17,6 +17,4 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UClK-o4olF-Y0k5zBHjezTAA"
           custom_tags: "videoId/yt:videoId/"
           max_post_count: 6
-#          template: "$newline[![$title](https://freshidea.com/jonah/app/youtube-card/?id=$videoId)]($url \"$title\")"
-          template: "$newline[![$title](https://img.youtube.com/vi/$videoId/0.jpg)]($url \"$title\")"
-          committer_email: "raphzouz@gmail.com"
+          template: "$newline[![$title](https://freshidea.com/jonah/app/youtube-card/?id=$videoId)]($url \"$title\")"
