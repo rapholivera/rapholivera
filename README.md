@@ -45,7 +45,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### Projects and Dev Stuffs:
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>⭐ Github Stats</b></summary>
 
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=rapholivera&show_icons=true&theme=tokyonight"/>
