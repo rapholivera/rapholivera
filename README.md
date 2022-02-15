@@ -8,7 +8,7 @@ You can find out more on my [youtube channel](https://www.youtube.com/channel/UC
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:earth_americas: &nbsp;Currently working as a _Mobile Developer Coordinator_ at [Valemobi](https://www.valemobi.com.br)\
+&nbsp;&nbsp;&nbsp;:earth_americas: &nbsp;Currently working as a _iOS Tech Lead_ at [Valemobi](https://www.valemobi.com.br)\
 &nbsp;&nbsp;&nbsp;:heart: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;ARKit, Swift, SwiftUI, Combine, Apple’s HIG, Git, Git flow, RxSwift.\
 &nbsp;&nbsp;&nbsp;:hourglass_flowing_sand: &nbsp;Coding since 2011 with 10+ years of experience in iOS development.\
