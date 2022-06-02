@@ -1,4 +1,4 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px">
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34">
 
 I'm _Raphael Oliveira_ and a content creator and iOS Software Engineer, I talk about things I am familiar with, things that trip up folks that I mentor, and things that I am learning. My work as content creator aims to help people find their way through the tech industry by sharing my own experiences navigating this world through technology, career advice, and lifestyle videos.
 
