@@ -35,8 +35,8 @@ You can find out more on my [youtube channel](https://www.youtube.com/channel/UC
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> macOS Big Sur 11.4</li>
-	    <li><b>Laptop: </b> Mac mini (M1, 2020)</li>
+  	    <li><b>OS:</b> macOS Monterrey 12.4</li>
+	    <li><b>Laptop: </b> MacBook Pro (i7, 2019)</li>
   	    <li><b>Browser: </b> Safari</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> XCode and Android Studio</li>
