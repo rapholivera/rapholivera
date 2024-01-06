@@ -4,8 +4,9 @@ I'm _Raphael Oliveira_ and a content creator and iOS Software Engineer, I talk a
 
 You can find out more on my [youtube channel](https://www.youtube.com/channel/UClK-o4olF-Y0k5zBHjezTAA) and my [Instagram](https://instagram.com/rapholivera) (all in Portuguese :brazil:)
 
+<!--
 <img align="right" alt="GIF" src="https://spotify-github-profile.vercel.app/api/view?uid=12167963754&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true"/>
-
+-->
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:earth_americas: &nbsp;Currently working as a _Senior iOS Engineer_ at [Pinterest](https://www.pinterest.com)\
