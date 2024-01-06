@@ -9,12 +9,12 @@ You can find out more on my [youtube channel](https://www.youtube.com/channel/UC
 -->
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:earth_americas: &nbsp;Currently working as a _Senior iOS Engineer_ at [Pinterest](https://www.pinterest.com)\
-&nbsp;&nbsp;&nbsp;:heart: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;ARKit, Swift, SwiftUI, Combine, Apple’s HIG, Git, Git flow, RxSwift.\
-&nbsp;&nbsp;&nbsp;:hourglass_flowing_sand: &nbsp;Coding since 2011 with 10+ years of experience in iOS development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil with my lovely wife :two_hearts:\
-&nbsp;&nbsp;&nbsp;:video_game: &nbsp;Pokémon trainer and Nintendo games fan.
+:earth_americas: &nbsp;Currently working as a _Senior iOS Engineer_ at [Pinterest](https://www.pinterest.com)\
+:heart: &nbsp;Passionate with problem solving and daily routines automation.\
+:technologist: &nbsp;ARKit, Swift, SwiftUI, Combine, Apple’s HIG, Git, Git flow, RxSwift.\
+:hourglass_flowing_sand: &nbsp;Coding since 2011 with 10+ years of experience in iOS development.\
+:family_man_woman_girl_girl: &nbsp;Living in Brazil with my lovely wife :two_hearts:\
+:video_game: &nbsp;Pokémon trainer and Nintendo games fan.
 
 ### 🔨 Languages and Tools:
 <a href="https://developer.apple.com/swift/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/swift/swift.svg" alt="swift" height="42px"/> </a> 
